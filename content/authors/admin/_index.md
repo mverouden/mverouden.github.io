@@ -1,6 +1,6 @@
 ---
 # Display name
-title: dr._ing._ Maikel P.H. Verouden
+title: dr.*ing.* Maikel P.H. Verouden
 
 # Name pronunciation (optional)
 name_pronunciation: Maikel Verouden
