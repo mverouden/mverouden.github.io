@@ -1,9 +1,9 @@
 ---
 # Display name
-title: dr.*ing.* Maikel P.H. Verouden
+title: Maikel Verouden, Ph.D.
 
 # Name pronunciation (optional)
-name_pronunciation: Maikel Verouden
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Maikel
@@ -11,7 +11,7 @@ last_name: Verouden
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
