@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Maikel Verouden, Ph.D.
+title: Maikel P.H. Verouden, Ph.D.
 
 # Name pronunciation (optional)
 name_pronunciation:
